@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/NicoGauna-1994/mi_repo/issues"
   },
-  "homepage": "https://github.com/NicoGauna-1994/mi_repo#readme"
+  "homepage": "https://github.com/NicoGauna-1994/mi_repo#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
 }
