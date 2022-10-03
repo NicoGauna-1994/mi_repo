@@ -1,0 +1,12 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.5fr 2fr 1.5fr 1.5fr 1.5fr 0.8fr;
+    grid-template-areas: 
+    "nav"
+    "header"
+    "promociones"
+    "combos"
+    "cafe_postres"
+    "pie"   ;
+}
