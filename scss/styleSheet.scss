@@ -1,3 +1,14 @@
+@import './base/variables';
+@import './base/formato_del_sitio';
+@import './componentes/nav';
+@import './componentes/header';
+@import './componentes/promociones';
+@import './componentes/combos';
+@import './componentes/cafe_postres';
+@import './componentes/pie';
+
+
+
 nav{
     grid-area: nav;
     background-color: lightgreen;
